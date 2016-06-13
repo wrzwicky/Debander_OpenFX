@@ -8,3 +8,5 @@ This is NOT meant to clean up gross problems like blocking in JPEG or MPEG image
 As of 2016-06-12,
  * With Natron 64-bit, works fine.
  * With DaVinci Resolve, fails to have any effect.
+ * With photo sources, looks good.
+ * With synthetic sources, looks aweful. Processes all flat-color areas, even if they're intended to be flat.

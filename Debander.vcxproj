@@ -30,6 +30,9 @@
     <ClInclude Include="Processor.h" />
     <ClInclude Include="ProcessRGBA.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectName>Debander</ProjectName>
     <ProjectGuid>{88405F0E-918E-4523-8627-1380BC83A605}</ProjectGuid>
